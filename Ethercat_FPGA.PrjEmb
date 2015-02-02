@@ -18,7 +18,7 @@ AllowPortNetNames=0
 AllowSheetEntryNetNames=1
 AppendSheetNumberToLocalNets=0
 NetlistSinglePinNets=0
-DefaultConfiguration=
+DefaultConfiguration=Default Configuration
 UserID=0xFFFFFFFF
 DefaultPcbProtel=1
 DefaultPcbPcad=0
@@ -244,22 +244,18 @@ DocumentPath=Output\Ethercat_FPGA_mem.lsl
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=generic_devices.h
-DItemRevisionGUID=
-
-[GeneratedDocument6]
 DocumentPath=ioport.h
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=swplatform.c
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=swplatform.h
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=wb_interfaces.h
 DItemRevisionGUID=
 
