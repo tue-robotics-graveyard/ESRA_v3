@@ -52,22 +52,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document2]
-DocumentPath=Embedded\cstart.asm
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document3]
 DocumentPath=Embedded\ecat_actuator.c
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,7 +67,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document4]
+[Document3]
 DocumentPath=Embedded\esc.c
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -99,7 +83,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document5]
+[Document4]
 DocumentPath=Embedded\esc.h
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -115,7 +99,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document6]
+[Document5]
 DocumentPath=Embedded\esc_hw.c
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -131,7 +115,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document7]
+[Document6]
 DocumentPath=Embedded\objecttypes.h
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -147,7 +131,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document8]
+[Document7]
 DocumentPath=Embedded\utypes.h
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -163,7 +147,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document9]
+[Document8]
 DocumentPath=Embedded\Software Platform1.SwPlatform
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -179,7 +163,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document10]
+[Document9]
 DocumentPath=Embedded\esc_foe.c
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -195,7 +179,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document11]
+[Document10]
 DocumentPath=Embedded\esc_foe.h
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -211,7 +195,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document12]
+[Document11]
 DocumentPath=Embedded\version.h
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -227,7 +211,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document13]
+[Document12]
 DocumentPath=hardware.h
 AnnotationEnabled=1
 AnnotateStartValue=1

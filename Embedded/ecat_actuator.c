@@ -373,7 +373,7 @@ void write_MISO(void){
 }
 
 int32_t main(void){
-  swplatform_init_stacks();
+  //swplatform_init_stacks();
   init_EC();
   init_actuators();
   init_sensors();

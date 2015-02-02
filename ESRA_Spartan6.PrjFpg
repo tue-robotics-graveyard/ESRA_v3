@@ -325,8 +325,19 @@ AdvancedOptionsEnabled=False
 AdvancedOptionsEnabled=False
 
 [Generic_MapMAP]
-Other Command Line Options=-mt on
+Other Command Line Options=
+Map Effort Level=med
+Extra Effort=n
+CLB Pack Factor Percentage=100
+Starting Placer Cost Table (1-100)=1
+Combinatorial Logic Optimization=False
+Register Duplication=False
+Map to input Functions=4
+MAP Guide Design File (.ncd)=
+Disable Register Ordering=False
 AdvancedOptionsEnabled=True
+CustomOptionsUser_Cmd=
+CustomOptionsUser_Scr=-p .ReplaceDeviceName#0D#0A-pr b#0D#0A-c 100#0D#0A-u#0D#0A-ignore_keep_hierarchy#0D#0A-mt on#0D#0A.ReplaceInputFile#0D#0A-o .ReplaceOutputFile#0D#0A
 
 [Generic_Place & RoutePAR]
 Other Options=-mt on
